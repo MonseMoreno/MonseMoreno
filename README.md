@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi :)
+
+<p align="center">
+<img src="https://i.pinimg.com/originals/9c/59/c2/9c59c25abfdd3b930c2f514c02bfef72.gif" height="70%" width="70%" />
+<p/>
 
 <!--
 **MonseMoreno/MonseMoreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
