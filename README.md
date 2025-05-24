@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<img src="https://i.pinimg.com/originals/9c/59/c2/9c59c25abfdd3b930c2f514c02bfef72.gif" height="80%" width="80%" />
+<img src="https://i.pinimg.com/originals/05/2e/fd/052efdbc21f7e3b15a745a213be70573.gif" height="80%" width="80%" />
 <p/>
 
 <h1 align="center"> 🧸 --- Hi :) --- 🧸 </h1>
